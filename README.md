@@ -4,6 +4,8 @@ SAR衛星 Sentinel-1の観測データを使って、大雨後の浸水被害エ
 ## デモサイト
 https://shi-works.github.io/murakami-city-flood-analysis-by-esa-snap/
 
+![image](https://github.com/shi-works/murakami-city-flood-analysis-by-esa-snap/assets/71203808/d56e2d34-e43e-42d0-9a70-16b9162b069d)
+
 ## 浸水解析手法
 https://news.mynavi.jp/techplus/article/20230725-2734465/
 
