@@ -14,7 +14,7 @@ https://news.mynavi.jp/techplus/article/20230725-2734465/
 新潟県村上市
 
 ## 衛星画像の取得
-- Copernicus Open Access Hubにアクセスして取得  
+- Copernicus Open Access Hubにアクセスして、Sentinel-1の衛星画像を取得  
 https://scihub.copernicus.eu/dhus/#/home
 
 ## 浸水推定図
