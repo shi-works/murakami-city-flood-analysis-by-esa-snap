@@ -1,5 +1,5 @@
 # murakami-city-flood-analysis-by-esa-snap
-SAR衛星 Sentinel-1の観測データを使って、大雨後の浸水被害エリアを解析する手法の試行
+SAR衛星 Sentinel-1の観測データを使って、大雨後の浸水エリアを解析する手法の試行
 
 ## デモサイト
 https://shi-works.github.io/murakami-city-flood-analysis-by-esa-snap/
@@ -7,6 +7,7 @@ https://shi-works.github.io/murakami-city-flood-analysis-by-esa-snap/
 ![image](https://github.com/shi-works/murakami-city-flood-analysis-by-esa-snap/assets/71203808/d56e2d34-e43e-42d0-9a70-16b9162b069d)
 
 ## 浸水解析手法
+大雨による浸水エリアの抽出には、欧州が公開する無料の解析ツール「SNAP」を使用した。
 https://news.mynavi.jp/techplus/article/20230725-2734465/
 
 ## 対象事象
