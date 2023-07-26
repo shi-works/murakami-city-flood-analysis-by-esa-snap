@@ -19,6 +19,6 @@ https://news.mynavi.jp/techplus/article/20230725-2734465/
 - Copernicus Open Access Hubにアクセスして、Sentinel-1の衛星画像を取得  
 https://scihub.copernicus.eu/dhus/#/home
 
-## 浸水推定図
+## 浸水推定図の取得
 - 浸水解析結果との比較に利用  
 https://www.gsi.go.jp/BOUSAI/R4_0803_heavyrain.html
