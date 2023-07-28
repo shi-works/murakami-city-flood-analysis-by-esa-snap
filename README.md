@@ -7,7 +7,7 @@ https://shi-works.github.io/murakami-city-flood-analysis-by-esa-snap/
 ![image](https://github.com/shi-works/murakami-city-flood-analysis-by-esa-snap/assets/71203808/d56e2d34-e43e-42d0-9a70-16b9162b069d)
 
 ## 浸水解析手法
-大雨による浸水エリアの抽出には、欧州が公開する無料の解析ツール「[SNAP](https://step.esa.int/main/download/snap-download/)」を使用した。
+大雨による浸水エリアの抽出には、ESA (European Space Agency,　欧州宇宙機構)が公開する無料の解析ツール「[SNAP](https://step.esa.int/main/download/snap-download/)」を使用した。
 https://news.mynavi.jp/techplus/article/20230725-2734465/
 
 ## 対象事象
